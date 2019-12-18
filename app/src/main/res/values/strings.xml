@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FrutApp</string>
+    <string-array name="flavours">
+        <item>Sweet</item>
+        <item>Fresh</item>
+        <item>Fruity</item>
+        <item>Tasty</item>
+        <item>Hot</item>
+        <item>Sour</item>
+        <item>Bitter</item>
+    </string-array>
+</resources>
